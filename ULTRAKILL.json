@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "Banana Man#7217",
+        "name": "ULTRAKILL",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 70,
+        "blur_radius": 5,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/908455046050631710\/1035877331136421938\/peakpx.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {
+        "mtrl_btn_transparent_bg_color": 0,
+        "transparent": 0
+    },
+    "drawable_tints": {
+        "gradient_transparent_colorbackgroundsecondary": 0,
+        "drawable_circle_transparent": 0
+    },
+    "raws": {}
+}
