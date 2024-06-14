@@ -8,9 +8,11 @@
     "background": {
         "overlay_alpha": 70,
         "blur": 5,
-        "color": "00FFFFFF",
         "url": "https:\/\/cdn.discordapp.com\/attachments\/908455046050631710\/1035877331136421938\/peakpx.jpg"
+        "opacity": "0",
     },
+            
+        
     "fonts": {},
     "simple_colors": {},
     "colors": {
